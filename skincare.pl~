@@ -1,0 +1,14 @@
+
+% Sample Prolog code for skincare recommendations
+
+% Recommendations based on skin type
+recommendation(oily, [ 'Use a gentle cleanser that removes excess oil.', 'Apply a light, non-comedogenic moisturizer.', 'Use an oil-free sunscreen.' ]).
+recommendation(normal, [ 'Maintain a balanced cleansing routine.', 'Use a lightweight moisturizer.', 'Apply a broad-spectrum sunscreen.' ]).
+recommendation(dry, [ 'Use a hydrating cleanser.', 'Apply a rich, nourishing moisturizer.', 'Use a hydrating sunscreen.' ]).
+recommendation(combination, [ 'Use a gentle cleanser suitable for combination skin.', 'Apply a light moisturizer on oily areas and a richer one on dry areas.', 'Use a balanced sunscreen that hydrates but doesn’t clog pores.' ]).
+
+% Products based on skin type
+products(oily, [ 'Cleanser: Neutrogena Oil-Free Acne Wash.', 'Moisturizer: CeraVe PM Facial Moisturizing Lotion.', 'Sunscreen: La Roche-Posay Anthelios Clear Skin Sunscreen SPF 60.', 'Mask: Aztec Secret Indian Healing Clay.' ]).
+products(normal, [ 'Cleanser: Cetaphil Daily Facial Cleanser.', 'Moisturizer: Neutrogena Hydro Boost Water Gel.', 'Sunscreen: EltaMD UV Clear Broad-Spectrum SPF 46.' ]).
+products(dry, [ 'Cleanser: CeraVe Hydrating Facial Cleanser.', 'Moisturizer: Vanicream Moisturizing Cream.', 'Sunscreen: La Roche-Posay Anthelios Melt-in Milk SPF 60.' ]).
+products(combination, [ 'Cleanser: Paula’s Choice Resist Perfectly Balanced Foaming Cleanser.', 'Moisturizer: Clinique Moisture Surge 72-Hour Auto-Replenishing Hydrator.', 'Sunscreen: Neutrogena Hydro Boost Water Gel Lotion SPF 30.' ]).

@@ -95,10 +95,3 @@ The frontend and the primary project (dataset, training, and inference code) are
 https://github.com/taite-ang-saiyin/Skin-Type-Classification
 
 ---
-
-If you'd like, I can also:
-
-- add a polished `LICENSE` (MIT recommended),
-- create `requirements.txt` if `Test.py` requires dependencies, or
-- expand the `Quick start` with concrete examples from the main repo.
-

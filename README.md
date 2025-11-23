@@ -1,11 +1,6 @@
 # Skincare-Recommendation-Chatbot-Using-Prolog
 The Skincare Recommendation Chatbot is a Python program that uses a Prolog knowledge base to provide personalized skincare routine tips and product suggestions based on a user's specified skin type.
 
-
-# Skincare — Skin Type Classification (Repository)
-
-A compact backend/utilities repository for the Skin Type Classification project. This repository contains supporting scripts and utilities used for data processing, quick experiments, and compatibility tests. The complete application (including the frontend and main training/inference pipelines) is hosted separately — see the link at the bottom.
-
 ---
 
 ## Table of Contents
